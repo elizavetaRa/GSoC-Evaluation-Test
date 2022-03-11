@@ -1,6 +1,6 @@
 ## CERN-HSF GSoC 2022
 # Image Explorer for ownCloud Infinite Scale
-
+Link to project: https://hepsoftwarefoundation.org/gsoc/2022/proposal_CERNBOXimageExplorer.html
 
 ## Evaluation test
 
